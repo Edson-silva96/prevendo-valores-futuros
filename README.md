@@ -139,11 +139,7 @@ A matriz de confusão apresentada mostra que:
 
 Todos os erros foram classificados como "Pequeno": Isso indica que a diferença entre os valores reais e os valores previstos foi sempre menor ou igual a 500.
 Não houve erros classificados como "Médio" ou "Grande": Isso significa que nenhum erro ultrapassou os limiares definidos para essas categorias.
-Possíveis Interpretações:
 
-Modelo Muito Preciso: O modelo de regressão utilizado (Random Forest, neste caso) pode ser extremamente preciso, com erros muito pequenos em todas as previsões.
-Limiares Muito Altos: Os limiares definidos para as categorias de erro podem estar muito altos, fazendo com que todos os erros sejam classificados como "Pequenos".
-Dados Balanceados: Os dados utilizados para treinar e testar o modelo podem ser muito homogêneos, com pouca variabilidade nos erros.
 
 ![imag 11](https://github.com/user-attachments/assets/e269e7e9-1315-4878-8915-fa465ee2f3cc)
 **O que o Gráfico Mostra:**
