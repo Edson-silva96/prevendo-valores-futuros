@@ -162,7 +162,12 @@ O gráfico apresentado compara os valores reais de uma determinada variável (re
 * ## testando com novos dados
 ![imag ci 12](https://github.com/user-attachments/assets/abed78a7-8afe-435d-a899-1ce89f94c86a)
 
+Interpretando a Saída
+A saída array([28225.12942747]) indica que o modelo previu um valor de 28225.12942747 para o novo conjunto de dados fornecido.
 
+Em outras palavras:
+
+Dada uma nova observação com as características 0, 4 e 30000.11, o modelo de regressão linear estima que o valor correspondente será de aproximadamente 28225.13.
 
 
 
